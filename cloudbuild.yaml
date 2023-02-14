@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@vapodymov 
-vapodymov
-/
-mlops-on-gcp
-Public
-forked from GoogleCloudPlatform/mlops-on-gcp
-Fork your own copy of vapodymov/mlops-on-gcp
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-mlops-on-gcp/workshops/tfx-caip-tf23/lab-03-tfx-cicd/solutions/cloudbuild.yaml
-@dougkelly
-dougkelly lab-03 and lab-04 updates and reorg
-Latest commit ad29e39 on Jan 20, 2021
- History
- 1 contributor
-48 lines (43 sloc)  1.78 KB
-
 # Copyright 2021 Google Inc. All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
